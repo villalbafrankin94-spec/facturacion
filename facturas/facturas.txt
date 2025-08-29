@@ -1,0 +1,1 @@
+{"id": 1, "fecha": "2025-08-28 18:05:56", "cliente": "Nicolas", "items": [{"product_id": 2, "product_name": "caja cereal frutilupis", "quantity": 12, "unit_price": 9500.0, "line_total": 114000.0}, {"product_id": 2, "product_name": "caja cereal frutilupis", "quantity": 1, "unit_price": 9500.0, "line_total": 9500.0}], "subtotal": 123500.0, "iva": 23465.0, "total": 146965.0}

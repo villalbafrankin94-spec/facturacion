@@ -1,0 +1,2 @@
+id|nombre|precio|stock
+2|caja cereal frutilupis|9500.0|54
